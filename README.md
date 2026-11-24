@@ -39,6 +39,10 @@ No installation, no account, nothing sent to a server. Open the page in Chrome o
 
 Hector runs entirely in your browser. Its security policy blocks every network connection, so nothing you load or create ever leaves your computer. Your collection is stored in the browser; use *Export all data* to keep a backup file.
 
+## How it was made
+
+I built Hector with the help of Claude, Anthropic's AI, for the coding. It doesn't generate any music or sounds: it's a tool to manage your own presets and patterns. I designed it and tested everything on my own Pro VS Mini, and the code is open here for anyone to check. It also comes with an automated test suite (see below).
+
 ## Use it offline
 
 Download `index.html` and open it in Chrome or Edge. It works the same way, with no internet connection.
