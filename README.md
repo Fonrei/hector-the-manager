@@ -1,10 +1,10 @@
 # Hector the Manager
 
-**A free preset, pattern and sequencer manager for the Behringer Pro VS Mini — in a single web page.**
+**A free preset, pattern and sequencer manager for the Behringer Pro VS Mini in a single web page.**
 
 No installation, no account, nothing sent to a server. Open the page in Chrome or Edge, connect your Pro VS Mini over USB, and manage its sounds and patterns from your computer.
 
-**▶ Try it: https://YOUR-USERNAME.github.io/hector-the-manager/**
+Try it: fonrei.github.io/hector-the-manager/
 
 ![Preset Manager](screenshot-presets.png)
 
