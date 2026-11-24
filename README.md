@@ -2,7 +2,7 @@
 
 **A free preset, pattern and sequencer manager for the Behringer Pro VS Mini in a single web page.**
 
-No installation, no account, nothing sent to a server. Open the page in Chrome or Edge, connect your Pro VS Mini over USB, and manage its sounds and patterns from your computer.
+No installation or accountneeded,and nothing sent to a server. Open the page in Chrome or Edge, connect your Pro VS Mini over USB, and manage its sounds and patterns from your computer.
 
 Try it: fonrei.github.io/hector-the-manager/
 
@@ -41,11 +41,13 @@ Hector runs entirely in your browser. Its security policy blocks every network c
 
 ## How it was made
 
-I built Hector with the help of Claude, Anthropic's AI, for the coding. It doesn't generate any music or sounds: it's a tool to manage your own presets and patterns. I designed it and tested everything on my own Pro VS Mini, and the code is open here for anyone to check. It also comes with an automated test suite (see below).
+I built Hector with the help of Claude for the coding. It doesn't generate any music or sounds: it's a tool to manage your own presets and patterns. I designed it and tested everything on my own Pro VS Mini, and the code is open here for anyone to check. It also comes with an automated test suite (see below).
+
+This program also explores features the synth was not designed for (such as previews off-bank), so consider them experimental.
 
 ## Use it offline
 
-Download `index.html` and open it in Chrome or Edge. It works the same way, with no internet connection.
+Download `index.html` and open it in Chrome or Edge. It works the same way with no internet connection.
 
 ## Feedback
 
